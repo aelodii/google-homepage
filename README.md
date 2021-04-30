@@ -1,2 +1,2 @@
 # google-homepage
-First test project wooo
+This is my first proper website build after years of not touching web design. In this lesson, I am supposed to grasp "yoinking" elements from the Google homepage by using the Inspect tool in Firefox. I will try to freestyle edit some CSS basics and setting up the HTML myself, and if worst comes to worst I will reference the google homepage. This project shouldn't take too much time, and by stating so I have just jinxed myself. Let's goooo 
