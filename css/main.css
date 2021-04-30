@@ -1,0 +1,23 @@
+/* CSS Styles */
+.logo{
+    display:flex;
+    flex-direction: column;
+    max-height: 50%;
+    max-width: 100%;
+    object-fit: contain;
+}
+
+
+}
+.header{
+    color: black;
+    text-align: center;
+    float:right;
+}
+#signin {
+    background-color: white;
+}
+.button {
+    background-color: violet;
+    text-align: center;
+}
